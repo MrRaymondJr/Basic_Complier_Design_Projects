@@ -1,2 +1,2 @@
-# Basic_Complier_Design_Projects
-Code created for class projects utilizing Complier code.
+# School Compiler Projects
+This repository hosts projects I created for my undergraduate classes that utilize Complier coding.
